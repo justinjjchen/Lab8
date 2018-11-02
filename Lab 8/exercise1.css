@@ -1,0 +1,22 @@
+body{
+	background-color: blue;	
+}
+
+.box{
+	margin: 10% 10% 20% 10%;
+	border: black 5px solid; 
+	color: red;
+	font-size: 20px;
+}
+
+.box1{
+	margin: 20px 20px 20px 20px;
+	border: green 2px dashed; 
+	padding: 5px 5px 5px 5px;
+}
+
+.box2{
+	margin: 0px 75% 0px 0px;
+	border: yellow 2px dashed; 
+	padding: 20px 20px 20px 20px;
+}
